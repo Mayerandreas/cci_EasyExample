@@ -36,27 +36,29 @@
 #define Icon_Button_PlusPlus_Offset                          1064
 #define Icon_SoftKey_MinusMinus_Offset                       1413
 #define IconSoftKey_PlusPlus_Offset                          1652
-#define NumberVariable_Tageszaehler_Offset                   2001
-#define NumberVariable_Gesamtzaehler_Offset                  2008
-#define NumberVariable_Gesamtziel_Offset                     2015
-#define NumberVariable_Tagesziel_Offset                      2022
-#define FontAttributes_Default_Offset                        2029
-#define FontAttributes_Button_Offset                         2037
-#define LineAttributes_Border_Offset                         2045
-#define FillAttributes_DarkerBG_Offset                       2053
-#define ObjectPointer_Null2_Offset                           2061
-#define ObjectPointer_Tagesziel_Offset                       2066
-#define ObjectPointer_Null1_Offset                           2071
-#define ObjectPointer_Gesamtziel_Offset                      2076
-#define AuxFunction2_PlusPlus_Offset                         2081
-#define AuxFunction2_MinusMinus_Offset                       2093
+#define _1200px_Deutz_Logo_svg_20004_Offset                  2001
+#define NumberVariable_Tageszaehler_Offset                   8418
+#define NumberVariable_Gesamtzaehler_Offset                  8425
+#define NumberVariable_Gesamtziel_Offset                     8432
+#define NumberVariable_Tagesziel_Offset                      8439
+#define FontAttributes_Default_Offset                        8446
+#define FontAttributes_Button_Offset                         8454
+#define LineAttributes_Border_Offset                         8462
+#define FillAttributes_DarkerBG_Offset                       8470
+#define ObjectPointer_Null2_Offset                           8478
+#define ObjectPointer_Tagesziel_Offset                       8483
+#define ObjectPointer_Null1_Offset                           8488
+#define ObjectPointer_Gesamtziel_Offset                      8493
+#define AuxFunction2_PlusPlus_Offset                         8498
+#define AuxFunction2_MinusMinus_Offset                       8510
+#define ExternalObjectDefinition_38000_Offset                8522
 
 #define ISO_OP_MEMORY_CLASS
 
-#define ISO_OP_MyProject1_Size   2105
+#define ISO_OP_MyProject1_Size   8535
 extern const unsigned char ISO_OP_MEMORY_CLASS isoOP_MyProject1[];
 
-#define ISO_OP_MyProject1_ObjectNumber     49
+#define ISO_OP_MyProject1_ObjectNumber     51
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset[];
 extern const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset_Id[];
 #define ISO_OP_MyProject1_Scale_Offset      1

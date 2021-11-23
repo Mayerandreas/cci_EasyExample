@@ -39,18 +39,20 @@ const unsigned long ISO_OP_MEMORY_CLASS isoOP_MyProject1_Offset_Id[] = {
 	  1064,  // Icon_Button_PlusPlus_Offset
 	  1413,  // Icon_SoftKey_MinusMinus_Offset
 	  1652,  // IconSoftKey_PlusPlus_Offset
-	  2001,  // NumberVariable_Tageszaehler_Offset
-	  2008,  // NumberVariable_Gesamtzaehler_Offset
-	  2015,  // NumberVariable_Gesamtziel_Offset
-	  2022,  // NumberVariable_Tagesziel_Offset
-	  2029,  // FontAttributes_Default_Offset
-	  2037,  // FontAttributes_Button_Offset
-	  2045,  // LineAttributes_Border_Offset
-	  2053,  // FillAttributes_DarkerBG_Offset
-	  2061,  // ObjectPointer_Null2_Offset
-	  2066,  // ObjectPointer_Tagesziel_Offset
-	  2071,  // ObjectPointer_Null1_Offset
-	  2076,  // ObjectPointer_Gesamtziel_Offset
-	  2081,  // AuxFunction2_PlusPlus_Offset
-	  2093,  // AuxFunction2_MinusMinus_Offset
+	  2001,  // _1200px_Deutz_Logo_svg_20004_Offset
+	  8418,  // NumberVariable_Tageszaehler_Offset
+	  8425,  // NumberVariable_Gesamtzaehler_Offset
+	  8432,  // NumberVariable_Gesamtziel_Offset
+	  8439,  // NumberVariable_Tagesziel_Offset
+	  8446,  // FontAttributes_Default_Offset
+	  8454,  // FontAttributes_Button_Offset
+	  8462,  // LineAttributes_Border_Offset
+	  8470,  // FillAttributes_DarkerBG_Offset
+	  8478,  // ObjectPointer_Null2_Offset
+	  8483,  // ObjectPointer_Tagesziel_Offset
+	  8488,  // ObjectPointer_Null1_Offset
+	  8493,  // ObjectPointer_Gesamtziel_Offset
+	  8498,  // AuxFunction2_PlusPlus_Offset
+	  8510,  // AuxFunction2_MinusMinus_Offset
+	  8522,  // ExternalObjectDefinition_38000_Offset
 };  // isoOP_MyProject1_Offset_Id
