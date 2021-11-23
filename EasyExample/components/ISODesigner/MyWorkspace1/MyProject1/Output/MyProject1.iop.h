@@ -44,11 +44,10 @@
 #define OutputString_SoftKey_Reset_Tageszaehler  11010
 #define OutputString_Ziel                 11011
 #define OutputString_ZielErreicht         11012
+#define OutputString_11013                11013
 #define OutputNumber_Tageszaehler         12000
 #define OutputNumber_Gesamtzaehler        12003
 #define Rectangle_Box                     14000
-#define Meter_Gesamtzaehler               17000
-#define Meter_Tageszaehler                17001
 #define LinearBargraph_Gesamtzaehler      18000
 #define LinearBargraph_Tageszaehler       18001
 #define Icon_Button_MinusMinus            20000
@@ -70,4 +69,3 @@
 #define ObjectPointer_Gesamtziel          27003
 #define AuxFunction2_PlusPlus             29000
 #define AuxFunction2_MinusMinus           29001
-#define ExternalObjectDefinition_38000    38000
