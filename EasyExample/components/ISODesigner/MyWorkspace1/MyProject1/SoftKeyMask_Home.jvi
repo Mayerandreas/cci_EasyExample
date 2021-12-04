@@ -117,10 +117,10 @@
 				<Value>0</Value>
 			</Property>
 			<Property Name="MagnificationX">
-				<Value>100</Value>
+				<Value>200</Value>
 			</Property>
 			<Property Name="MagnificationY">
-				<Value>100</Value>
+				<Value>200</Value>
 			</Property>
 		</PropertySheet>
 	</PropertySheets>
