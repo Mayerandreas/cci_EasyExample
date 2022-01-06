@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<JetView-Document Version="1" ObjectPoolVersion="3.0" ProductVersion="5.5.1.4367">
+<JetView-Document Version="0" ObjectPoolVersion="3.0" ProductVersion="5.5.1.4367">
 	<PropertySheets>
 		<PropertySheet Name="General">
 			<Property Name="ObjectID">
@@ -114,11 +114,39 @@
 				<Value>8421504</Value>
 			</Property>
 			<Property Name="MagnificationX">
-				<Value>100</Value>
+				<Value>200</Value>
 			</Property>
 			<Property Name="MagnificationY">
-				<Value>100</Value>
+				<Value>200</Value>
 			</Property>
 		</PropertySheet>
 	</PropertySheets>
+	<Components>
+		<Component ID="114056875" Class="CButton" Name="Button">
+			<PropertySheets>
+				<PropertySheet Name="General">
+					<Property Name="ZOrder">
+						<Value>0</Value>
+					</Property>
+				</PropertySheet>
+				<PropertySheet Name="Proxy">
+					<Property Name="Top">
+						<Value>127</Value>
+					</Property>
+					<Property Name="Left">
+						<Value>344</Value>
+					</Property>
+					<Property Name="Transform">
+						<Value>(1.0000000000000000)(0.0000000000000000)(344.0000000000000000)(0.0000000000000000)(1.0000000000000000)(127.0000000000000000)</Value>
+					</Property>
+					<Property Name="ReferencedObjectForMask">
+						<Value>-1</Value>
+					</Property>
+				</PropertySheet>
+			</PropertySheets>
+			<Objects>
+				<Object JVS-ID="6005"/>
+			</Objects>
+		</Component>
+	</Components>
 </JetView-Document>
