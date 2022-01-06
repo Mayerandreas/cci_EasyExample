@@ -21,10 +21,12 @@ const unsigned char ISO_OP_MEMORY_CLASS isoOP_MyProject1[] = {
 		XYREF(OutputString_Fasszaehler, 0, 20),
 		'e', 'n',
 		'd', 'e',
-	ID(Macro_1), TYPEID_MACRO, WORD(8),
+	ID(Macro_1), TYPEID_MACRO, WORD(16),
 		CMD_CHANGE_ACTIVE_MASK, ID(WorkingSet_0), ID(DataMask_2), 0xFF, 0xFF, 0xFF,
-	ID(Macro_2), TYPEID_MACRO, WORD(8),
+		CMD_CONTROL_AUDIO_DEVICE, 3, WORD(540), WORD(0), WORD(0)
+	ID(Macro_2), TYPEID_MACRO, WORD(16),
 		CMD_CHANGE_ACTIVE_MASK, ID(WorkingSet_0), ID(DataMask_Home), 0xFF, 0xFF, 0xFF,
+		CMD_CONTROL_AUDIO_DEVICE, 3, WORD(540), WORD(0), WORD(0)
 	ID(DataMask_Home), TYPEID_DATAMASK, COLOR(230), ID(SoftKeyMask_Home), 8, 0, 
 		XYREF(Meter_Gesamtzaehler, 400, 240),
 		XYREF(Meter_Tageszaehler, 400, 240),
