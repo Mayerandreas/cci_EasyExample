@@ -7,7 +7,12 @@
 #define MASK_WIDTH                          480
 #define MASK_HEIGHT                         480
 #define WorkingSet_0                          0
+#define Macro_1                               1
+#define Macro_2                               2
+#define Macro_3                               3
+#define Macro_4                               4
 #define DataMask_Home                      1000
+#define DataMask_2                         1001
 #define Container_Gesamtzaehler            3000
 #define Container_Tageszaehler             3001
 #define SoftKeyMask_Home                   4000
@@ -19,13 +24,19 @@
 #define Button_Reset_Gesamtzaehler         6001
 #define Button_Reset_Tageszaehler          6002
 #define Button_MinusMinus                  6003
+#define Button_seite2                      6004
+#define Button_seite1                      6005
+#define Button_6006                        6006
 #define InputNumber_Gesamtziel             9000
 #define InputNumber_Tagesziel              9001
+#define OutputString_seite2               11000
 #define OutputString_Fasszaehler          11001
 #define OutputString_Reset_Gesamtzaehler  11002
 #define OutputString_Gesamtzaehler        11003
 #define OutputString_Tageszaehler         11004
 #define OutputString_Reset_Tageszaehler   11005
+#define OutputString_seite1               11006
+#define OutputString_11007                11007
 #define OutputString_SoftKey_Reset_Gesamtzaehler  11009
 #define OutputString_SoftKey_Reset_Tageszaehler  11010
 #define OutputString_Ziel                 11011
@@ -45,6 +56,7 @@
 #define NumberVariable_Gesamtzaehler      21001
 #define NumberVariable_Gesamtziel         21002
 #define NumberVariable_Tagesziel          21003
+#define FontAttributes_23000              23000
 #define FontAttributes_Default            23001
 #define FontAttributes_Button             23002
 #define LineAttributes_Border             24000
@@ -55,3 +67,4 @@
 #define ObjectPointer_Gesamtziel          27003
 #define AuxFunction2_PlusPlus             29000
 #define AuxFunction2_MinusMinus           29001
+#define ExternalObjectDefinition_38000    38000
