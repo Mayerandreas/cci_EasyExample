@@ -13,7 +13,7 @@ ptn_Child1=ViewFrame-0
 DocPathName=.\MyProject1\DataMask_Home.jvi
 WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDAAAAAAACCAAAAAAJOHAAAAANBGAAAAA
 ActiveTab=0
-ViewScrollHoriz=71
+ViewScrollHoriz=30
 ViewScrollVert=0
 IsActiveChildFrame=True
 [5_5_1.ChildFrames.Document-1]
@@ -22,7 +22,7 @@ ptn_Child1=ViewFrame-0
 DocPathName=.\MyProject1\DataMask_2.jvi
 WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDAAAAAAACCAAAAAAJOHAAAAANBGAAAAA
 ActiveTab=0
-ViewScrollHoriz=71
+ViewScrollHoriz=30
 ViewScrollVert=0
 IsActiveChildFrame=False
 [5_5_1.ChildFrames.Document-3]
@@ -31,6 +31,6 @@ ptn_Child1=ViewFrame-0
 DocPathName=.\MyProject1\SoftKeyMask_Home.jvi
 WindowPlacement=MCAAAAAAAAAAAAAABAAAAAAAPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPDAAAAAAACCAAAAAAJOHAAAAANBGAAAAA
 ActiveTab=0
-ViewScrollHoriz=71
+ViewScrollHoriz=30
 ViewScrollVert=0
 IsActiveChildFrame=False
