@@ -168,7 +168,7 @@ void VTC_handleSoftkeysAndButtons_RELEASED(const struct ButtonActivation_S *pBut
 
 	case SoftKey_Reset_Tageszaehler:
 	case Button_Reset_Tageszaehler:
-		Hugo = 0;
+		Tageszaehler = 0;
 		break;
 
 	default:

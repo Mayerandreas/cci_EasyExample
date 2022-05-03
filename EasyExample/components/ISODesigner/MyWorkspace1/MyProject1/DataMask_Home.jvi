@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<JetView-Document Version="5" ObjectPoolVersion="3.0" ProductVersion="5.5.1.4367">
+<JetView-Document Version="0" ObjectPoolVersion="3.0" ProductVersion="5.5.1.4367">
 	<PropertySheets>
 		<PropertySheet Name="General">
 			<Property Name="ObjectID">
@@ -122,7 +122,7 @@
 		</PropertySheet>
 	</PropertySheets>
 	<Components>
-		<Component ID="132778321" Class="CMeter" Name="Meter">
+		<Component ID="400704840" Class="CMeter" Name="Meter">
 			<PropertySheets>
 				<PropertySheet Name="General">
 					<Property Name="ZOrder">
@@ -145,10 +145,10 @@
 				</PropertySheet>
 			</PropertySheets>
 			<Objects>
-				<Object JVS-ID="17000"/>
+				<Object JVS-ID="17001"/>
 			</Objects>
 		</Component>
-		<Component ID="400704840" Class="CMeter" Name="Meter">
+		<Component ID="132778321" Class="CMeter" Name="Meter">
 			<PropertySheets>
 				<PropertySheet Name="General">
 					<Property Name="ZOrder">
@@ -171,7 +171,7 @@
 				</PropertySheet>
 			</PropertySheets>
 			<Objects>
-				<Object JVS-ID="17001"/>
+				<Object JVS-ID="17000"/>
 			</Objects>
 		</Component>
 		<Component ID="755019580" Class="CButton" Name="Button">
